@@ -1,0 +1,401 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"png",
+				"png"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"text",
+				"text-indent"
+			],
+			[
+				"border",
+				"border	border-bottom-width: size"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"head",
+				"header	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!DOCTYPE html\n	xmlns:addthis=\"http://www.addthis.com/help/api-spec\">\n<!--[if lt IE 7 ]><html class=\"ie ie6\" lang=\"pt-br\"> <![endif]-->\n<!--[if IE 7 ]><html class=\"ie ie7\" lang=\"pt-br\"> <![endif]-->\n<!--[if IE 8 ]><html class=\"ie ie8\" lang=\"pt-br\"> <![endif]-->\n<!--[if (gte IE 9)|!(IE)]><!--><html lang=\"pt-br\"> <!--<![endif]-->\n<head>\n\n  <!-- Basic Page Needs\n  ================================================== -->\n  <meta charset=\"utf-8\">\n  <title>Veterinária Barreto - desde 1981</title>\n  <meta name=\"description\" content=\"Veterinária Barreto, desde 1981 o melhor atendimento veterinário de Niterói\">\n  <meta name=\"author\" content=\"Daniel Cavalcanti\">\n  <!--[if lt IE 9]>\n    <script src=\"http://html5shim.googlecode.com/svn/trunk/html5.js\"></script>\n  <![endif]-->\n\n  <!-- Mobile Specific Metas\n  ================================================== -->\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1\">\n\n  <!-- CSS\n  ================================================== -->\n  <link rel=\"stylesheet\" href=\"css/base.css\">\n  <link rel=\"stylesheet\" href=\"css/skeleton.css\">\n  <link rel=\"stylesheet\" href=\"css/layout.css\">\n  <link rel=\"stylesheet\" href=\"css/vb.css\">\n\n  <!-- Favicons\n  ================================================== -->\n  <link rel=\"shortcut icon\" href=\"images/favicon.ico\">\n  <link rel=\"apple-touch-icon\" href=\"images/apple-touch-icon.png\">\n  <link rel=\"apple-touch-icon\" sizes=\"72x72\" href=\"images/apple-touch-icon-72x72.png\">\n  <link rel=\"apple-touch-icon\" sizes=\"114x114\" href=\"images/apple-touch-icon-114x114.png\">\n\n  <script src=\"javascripts/json-info.js\"></script>\n</head>\n<body>\n\n\n\n  <!-- Primary Page Layout\n  ================================================== -->\n\n  <!-- Delete everything in this .container and get started on your own site! \n  \n  rgba(255, 255, 255, 0.7)\n  -->\n\n  <div class=\"container\">\n  <div class=\"row\">\n    <div class=\"sixteen columns\">\n    	<a name=\"info\"></a>\n	  <h1 class=\"remove-bottom\" style=\"margin-top: 40px\">\n	  <a href=\"/\" alt=\"Veterinária Barreto\" class=\"logo\">Veterinária Barreto</a>\n	  <small>desde 1981</small></h1>\n      <hr />\n\n      <ul class=\"nav\">\n      	<li><a href=\"\">Serviços</a></li>\n      	<li><a href=\"\">Tosa e banho</a></li>\n      </ul>\n\n    </div>\n	\n  </div>\n \n  <div class=\"one-third column\" style=\"float:right;\">\n\n	<div class=\"row\">\n		<h5>Contate-nos</h5>\n		<address>\n        Tel. (0xx)<a href=\"tel:+2127179059\">(21) 2717-9059</a><br />\n        Fax. (0xx)<a href=\"tel:+2126940240\">(21) 2694-0240</a><br />\n		Rua Doutor March, 358 - Barreto<br />\n		Niterói - RJ, 24110-650 \n		</address>\n		<a href=\"#info\" class=\"button\" onclick=\"addClass('info00email', 'ler')\">Cadastre-se e receba nossa Mala-direta!</a>\n	</div>\n\n     <div class=\"row\">\n     	<h5>Compartilhe</h5>\n		<!-- AddThis Button BEGIN -->\n		<div class=\"addthis_toolbox \" addthis:url=\"http://www.veterinariabarreto.com.br\" addthis:title=\"Veterinária Barreto - Desde 1981\">\n		<a class=\"addthis_button_orkut\"> O </a>\n		<a class=\"addthis_button_facebook\">f</a>\n		<a class=\"addthis_button_twitter\">t</a>\n		<a class=\"addthis_button_compact\">+</a>\n		</div>\n		<script type=\"text/javascript\">var addthis_config = {\"data_track_addressbar\":true};</script>\n		<script type=\"text/javascript\" src=\"http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4f8b6e65564e567f\"></script>\n		<!-- AddThis Button END -->\n		<br class=\"clearfix\" />\n	 </div>\n	<div class=\"row\">\n		<h5>Novidades</h5>\n		<script charset=\"utf-8\" src=\"http://widgets.twimg.com/j/2/widget.js\"></script>\n		<script>\n		new TWTR.Widget({\n		  version: 2,\n		  type: 'profile',\n		  rpp: 4,\n		  interval: 30000,\n		  width: 'auto',\n		  height: 300,\n		  theme: {\n			shell: {\n			  background: '#f0fff0',\n			  color: '#019a49'\n			},\n			tweets: {\n			  background: '#f0fff0',\n			  color: '#000000',\n			  links: '#4aed05'\n			}\n		  },\n		  features: {\n			scrollbar: false,\n			loop: false,\n			live: false,\n			behavior: 'all'\n		  }\n		}).render().setUser('VetBarreto').start();\n		</script>\n	</div>\n	\n	<div class=\"row\">\n      <h5>Horário de funcionamento</h5>\n			<dl>\n				<dt>Segunda à  Sexta-feira</dt>\n				<dd>9:00 - 18:00hs</dd>\n				\n				<dt>Sábados</dt>\n				<dd>09:00 - 15:00hs</dd>\n\n				<dt>Domingos</dt>\n				<dd>10:00 - 13:00hs</dd>\n\n				<dt>Horário de almoço</dt>\n				<dd>13:00 - 14:00hs</dd>\n				\n				<dt>Feriados</dt>\n				<dd>a consultar</dd>\n				\n				<dt>Especialistas</dt>\n				<dd>hora marcada</dd>\n			</dl>\n\n	  </div>\n	 <div class=\"row\">\n      <h5>Informativo</h5>\n      <ul class=\"informativos\">\n		<li><a href=\"#info\" onclick=\"addClass('info001', 'ler')\">Erliquiose: a doença do carrapato</a></li>\n		<li><a href=\"#info\" onclick=\"addClass('info002', 'ler')\">Oftalmologia</a></li>\n		<li><a href=\"#info\" onclick=\"addClass('info003', 'ler')\">Anestesia Inalatória</a></li>\n		<li><a href=\"#info\" onclick=\"addClass('info004', 'ler')\">Oncologia</a></li>\n		<li><a href=\"#info\" onclick=\"addClass('info005', 'ler')\">Ultrassonografia</a></li>\n			<!-- script type=\"text/javascript\">\n\n			  var obj = eval (\"(\" + art + \")\");\n			for (i=0; i<=1 i++) {\n				document.write('<li><a onclick=\"addClass');\n				document.write(\"('\");\n				document.write(obj.artigos[i].id);\n				document.write(\"',\");\n				document.write(\"'ler')\");\n				document.write('\">');\n				document.write(obj.artigos[i].titulo+\"</a></li>\");\n			}\n			</script -->\n	  </ul>\n    </div>\n\n  </div>     \n <div class=\"two-thirds column\">\n	<div id=\"informativos\">\n		\n		<div id=\"info001\" class=\"invis\">\n			<h2>Erliquiose: a doença do carrapato</h2>\n			<p>A erliquiose é uma doença infecciosa que acomete os cães, transmitida pelo carrapato vermelho do cão. É causada pela bactéria Erhlichia sp, que parasita leucócitos, que são as células de defesa do organismo. Sendo assim, o cão fica susceptível à outras doenças.</p>\n\n			<p>Ultimamente, foi divulgado pela mídia o caso de um sul-africano que morreu com a \"febre do carrapato\", conhecida como febre maculosa. Esta enfermidade não é a mesma coisa que a erliquiose, doença muito comum na região Sudeste. A febre maculosa é uma zoonose, que acomete ocasionalmente o homem, e é transmitida através da picada do carrapato-estrela, que parasita principalmente equinos e capivaras.</p>\n\n			<p>A erliquiose pode aparecer com os mais variados sintomas, como: febre, apatia, anorexia (sem querer comer), perda de peso, vômito, sangue na urina ou fezes, sangramento nasal e pequenas manchas vermelhas pelo corpo do cão, podendo até levá-lo a morte, quando diagnosticada tardiamente.</p>\n\n			<p>Sendo assim, caso seu cão apresente qualquer alteração, muitas vezes ficando somente amoadinho, sem querer comer, ajude o seu amigo e procure um veterinário.</p>\n\n			<p>Como prevenção, o melhor é sempre evitar a infestação de carrapatos, utilizando carrapaticidas adequados no animal e no ambiente onde ele vive, sempre após orientação de um médico veterinário.</p>\n\n			<p>Referências:<br />\n			<em>- COUTO, C.G. - Doenças Rickettsiais In: BICHARD, SHERDING, Manual Saunders: Clínica de pequenos animais. Ed. Roca: 139-42, 1998</em>\n			</p>\n		</div>\n		<div id=\"info002\" class=\"invis\">\n			<h2>Oftalmologia</h2>\n			<p>O Olho é formado por estruturas internas e externas que sobrepõem-se e comunicam-se. Essa característica lhe confere um funcionamento interdependente e,  ao mesmo tempo, fazendo parte do organismo como um todo.</p>\n\n			<p>A presença de lacrimejamento, secreção mucosa ou purulenta, furúnculo, dificuldade em manter um ou ambos os olhos abertos, pode trazer complicações futuras. Uma observação constante poderá favorecer o diagnóstico precoce e tratamento adequado, evitando assim, a evolução para uma situação mais grave.</p>\n\n			<p>Dentre as apresentações clínicas que poderão evoluir de forma indesejável está o \"olho seco\", \"olho vermelho\", glaucoma, catarata, etc. Esses males, quando adequadamente diagnosticados, poderão ser controlados ou curados.</p>\n			\n			\n		</div>\n		<div id=\"info003\" class=\"invis\">\n			<h2>Anestesia Inalatória</h2>\n			<p>Trata-se do procedimento que provocará o estado de anestesia geral, através da administração de gases voláteis, sob o acompanhamento de um profissional, o anestesista especializado, que acompanhará desde o início (ou indução) até o despertar (acordar) do paciente de forma segura e tranquila.</p>\n		</div>\n\n		<div id=\"info004\" class=\"invis\">\n			<h2>Oncologia</h2>\n			<p>A medicina Veterinária, assim como a medicina Humana, segue evoluindo no que diz respeito ao diagnostico e tratamento das temidas células cancerígenas. Hoje, dispomos de técnicas de diagnóstico e tratamento com bons resultados em situações onde antigamente só nos restava lamentar.</p>\n		</div>\n\n		<div id=\"info005\" class=\"invis\">\n			<h2>Ultrassonografia </h2>\n			<p>A ultrassonografia, na medicina Veterinária, desvenda distúrbios e alterações em tecidos moles. Isso traz, tanto ao cliente quanto ao profissional que atende o animal, a atitude mais segura a seguir em situações de risco - cirurgias são um bom exemplo. O método oferece, também, a possibilidade de acompanhar a evolução do quadro do paciente.</p>\n		</div>\n\n		<div id=\"info006\" class=\"invis\">\n			<h2>Cardiologia</h2>\n			<p>As desordens cardiovasculares representam uma porcentagem substancial dos atendimentos na prática veterinária. Cães e gatos \"cardiopatas\" são pacientes frequentes nas clínicas. (aonde quer chegar?) As cardiopatias podem ser adquiridas - quando o paciente adquire a doença ao longo da vida - ou congênitas - quando ele nasce com a doença - e os primeiros sintomas são: tosse \"engasgada\", cansaço e desmaios. Algumas raças são mais predispostas, como os boxers e os dobermmans, que devem ser examinados a partir de seis anos de idade, mesmo sem sintomas aparentes.\n			Os poodles, bichons, \"lubus de promeância\"(???), malteses e cockers também são predispostos a desordens vasculares (por que listar em dois lugares?). Goldens e labradores podem apresentar strose subcontreia e os gatos são vítimas da cardiopatia hipertrófica. Ao examinar o animal, o cardiologista utilizará como ferramentas o eletro\n			</p>\n		</div>\n		<div id=\"info00email\" class=\"invis\">\n						<!-- Begin MailChimp Signup Form -->\n			<div id=\"mc_embed_signup\">\n			<form action=\"http://veterinariabarreto.us5.list-manage.com/subscribe/post?u=66401124bfa38f4146bcc6119&amp;id=7968269d7f\" method=\"post\" id=\"mc-embedded-subscribe-form\" name=\"mc-embedded-subscribe-form\" class=\"validate\" target=\"_blank\">\n				<h2>Nossa mala-direta</h2>\n				<p>Ao se cadastrar em nossa Mala-Direta, você receberá emails com nossas promoções e novidades</p>\n				<p>Você poderá descadastrar seu email de nossa lista quando quiser através\n				<!-- // MAILCHIMP UNSUBSCRIBE CODE \\\\ -->\n<a href=\"http://veterinariabarreto.us5.list-manage.com/unsubscribe?u=66401124bfa38f4146bcc6119&id=7968269d7f\">deste link</a>\n<!-- \\\\ MAILCHIMP UNSUBSCRIBE CODE // --></p>\n				<p>A Veterinária Barreto não fornece suas informações a terceiros</p>\n			<div class=\"escondido\">\n				<div class=\"mc-field-group\">\n					<label for=\"mce-EMAIL\">Email </label>\n					<input type=\"email\" value=\"\" name=\"EMAIL\" class=\"required email\" id=\"mce-EMAIL\">\n				</div>\n				<div class=\"mc-field-group\">\n					<label for=\"mce-FNAME\">Nome </label>\n					<input type=\"text\" value=\"\" name=\"FNAME\" class=\"\" id=\"mce-FNAME\">\n				</div>\n				<div class=\"mc-field-group\">\n					<label for=\"mce-LNAME\">Sobrenome </label>\n					<input type=\"text\" value=\"\" name=\"LNAME\" class=\"\" id=\"mce-LNAME\">\n				</div>\n				<div class=\"mc-field-group\">\n					<label for=\"mce-MMERGE3\">Animais (separados por vírgula) </label>\n					<input type=\"text\" value=\"\" name=\"MMERGE3\" class=\"\" id=\"mce-MMERGE3\">\n				</div>\n					<div id=\"mce-responses\" class=\"clear\">\n						<div class=\"response\" id=\"mce-error-response\" style=\"display:none\"></div>\n						<div class=\"response\" id=\"mce-success-response\" style=\"display:none\"></div>\n					</div>	\n					<button type=\"submit\" value=\"Cadastrar\" name=\"subscribe\" id=\"mc-embedded-subscribe\" class=\"button\">Cadastrar</button>\n			</div>\n\n			</form>\n			</div>\n\n			<!--End mc_embed_signup-->\n\n	</div>\n	\n	<div class=\"row\">\n      <h3>Nossos serviços</h3>\n	  <span class=\"icn atendimento\"></span><h4>Atendimento veterinário</h4>\n      <p>Atendemos pequenos animais nas áreas clínica e cirurgia. \n	  Também contamos com especialistas em:\n	  </p>\n	  <ul class=\"square\">\n	  	<li>Cardiologia </li>\n	  	<li>Oncologia</li>\n	  	<li>Endocrinologia</li>\n	  	<li>Oftalmologia</li>\n	  	<li>Dermatologia</li>\n	  	<li>Neurologia</li>\n	  	<li>Anestesia Inalatória</li>\n	  </ul>\n	  \n	  <span class=\"icn transporte\"></span><h4>Transporte</h4>\n	  <p>Transportamos seu animal em veículo adequado, equipado com ar-condicionado para o conforto do seu amigo. \n	  Ligue-nos para se informar sobre tarifas e locais.</p>\n	  \n	  <span class=\"icn tosaebanho\"></span><h4>Tosa e banho</h4>\n	  <p>Tosamos e banhamos seu bichinho de 2ª à Sábado, com um time de tosadores especializados, \n	  além de dispormos dos equipamentos de secagem mais atuais do mercado. \n	  Tudo para o seu pet sair satisfeito e limpinho.</p>\n	  \n	  <span class=\"icn hospedagem\"></span><h4>Hospedagem</h4>\n	  <p>Temos 10 canis para hospedagem, com condições adequadas para abrigar seu animal de forma segura.\n		 Além de uma equipe de funcionários capacitados para garantir alimentação, banho e lazer durante sua estadia.\n	  </p>\n	  \n	   <span class=\"icn labs\"></span><h4>Exames laboratoriais</h4>\n	  <p>Possuimos convênio com laboratório de análises clínicas. O material é coletado e enviado ao laboratório \n	  diretamente do consultório.\n	  </p>\n    </div>\n	\n	<div class=\"row\">\n      <h3>Onde estamos?</h3>\n      <iframe width=\"420\" height=\"530\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"http://maps.google.com.br/maps?q=veterin%C3%A1ria+barreto&amp;sll=-22.862012,-43.093228&amp;cid=2444977150386048181&amp;gl=br&amp;ie=UTF8&amp;hq=veterin%C3%A1ria+barreto&amp;hnear=&amp;t=m&amp;source=embed&amp;ll=-22.860635,-43.092628&amp;spn=0.010479,0.009012&amp;z=16&amp;iwloc=A&amp;output=embed\"></iframe><br /><small><a href=\"http://maps.google.com.br/maps?q=veterin%C3%A1ria+barreto&amp;sll=-22.862012,-43.093228&amp;cid=2444977150386048181&amp;gl=br&amp;ie=UTF8&amp;hq=veterin%C3%A1ria+barreto&amp;hnear=&amp;t=m&amp;source=embed&amp;ll=-22.860635,-43.092628&amp;spn=0.010479,0.009012&amp;z=16&amp;iwloc=A\" style=\"color:#0000FF;text-align:left\">Exibir mapa ampliado</a></small>\n	  <!-- iframe width=\"420\" scrolling=\"no\" height=\"530\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\" src=\"http://maps.google.com.br/maps?f=q&amp;source=embed&amp;hl=pt-BR&amp;q=Veterin%C3%A1ria&amp;aq=2&amp;sll=-22.863285,-43.093024&amp;sspn=0.004854,0.00986&amp;ie=UTF8&amp;st=112682123204788070687&amp;rq=1&amp;ev=zi&amp;split=1&amp;radius=0.38&amp;hq=Veterin%C3%A1ria&amp;hnear=&amp;layer=c&amp;cbll=-22.86285,-43.092177&amp;cbp=13,0,,0,5&amp;ll=-22.86285,-43.092177&amp;spn=0.00692,0.00912&amp;z=16&amp;output=svembed\"></iframe -->\n	  <!-- iframe width=\"420\" height=\"530\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"http://maps.google.com.br/maps?oe=utf-8&amp;client=firefox-a&amp;ie=UTF8&amp;q=veterin%C3%A1ria+barreto&amp;fb=1&amp;gl=br&amp;hq=veterin%C3%A1ria+barreto&amp;hnear=0x997efe4224b50b:0xf988253c846c59ee,Rio+de+Janeiro+-+RJ&amp;cid=0,0,2444977150386048181&amp;t=m&amp;ll=-22.860991,-43.09252&amp;spn=0.010479,0.008991&amp;z=16&amp;iwloc=A&amp;output=embed\"></iframe><br /><small><a href=\"http://maps.google.com.br/maps?oe=utf-8&amp;client=firefox-a&amp;ie=UTF8&amp;q=veterin%C3%A1ria+barreto&amp;fb=1&amp;gl=br&amp;hq=veterin%C3%A1ria+barreto&amp;hnear=0x997efe4224b50b:0xf988253c846c59ee,Rio+de+Janeiro+-+RJ&amp;cid=0,0,2444977150386048181&amp;t=m&amp;ll=-22.860991,-43.09252&amp;spn=0.010479,0.008991&amp;z=16&amp;iwloc=A&amp;source=embed\" style=\"color:#0000FF;text-align:left\">Exibir mapa ampliado</a></small -->\n    </div>\n </div>\n \n\n\n\n\n  <!-- JS\n  ================================================== -->\n  <script src=\"http://code.jquery.com/jquery-1.6.4.min.js\"></script>\n  <script src=\"javascripts/tabs.js\"></script>\n  <script>\n  function addClass(id,new_class){\n       var i,n=0;\n\n       new_class=new_class.split(\",\");\n\n       for(i=0;i<new_class.length;i++){\n			   $(\"div\").removeClass(\"ler\");\n               if( (\" \"+document.getElementById(id).className+\" \").indexOf(\" \"+new_class[i]+\" \")==-1)\n			   {	   \n                       document.getElementById(id).className+=\" \"+new_class[i];\n                       n++;\n				}\n       }\n	   return n;\n}\n  </script>\n  <script>\n\n  \n	$(document).ready( $.getJSON(\"js/json-info.js\", function(json) {\n   alert(\"JSON Data: \" + json.artigos[0].titulo);\n })\n	);\n  </script>\n\n<!-- End Document\n================================================== -->\n</body>\n\n\n\n</html>",
+			"file": "index.html",
+			"file_size": 16871,
+			"file_write_time": 129914082986481045,
+			"settings":
+			{
+				"buffer_size": 16706,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Daniel/Dropbox/Public/Web/ARVOZ/index.html",
+			"settings":
+			{
+				"buffer_size": 12793,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<%@ include file=\"/WEB-INF/views/commons/taglibs.jsp\"%>\n<%@ page language=\"java\" contentType=\"text/html; charset=UTF-8\"\n	pageEncoding=\"UTF-8\"%>\n<%@ include file=\"/WEB-INF/views/include/header.jsp\"%>\n\n<div class=\"containerProject\">\n	<div id=\"content\">\n		<div class=\"row-fluid\">\n			<%@ include	file=\"/WEB-INF/views/include/lateral.jsp\"%>\n			<div id=\"pantone300-conteudo\">				\n					<h1>\n						Rede de Contatos\n					</h1>\n					<ul id=\"pantone300-sub-menu\" class=\"nav nav-tabs\">\n						<li class=\"active\">\n							<a href=\"${pageContext.request.contextPath}/contacts_network/incubator/display\">Incubadora</a>\n						</li>\n						<li>\n							<a href=\"${pageContext.request.contextPath}/contacts_network/enterprise/show\">Empreendimentos</a>\n						</li>\n						<li>\n							<a href=\"${pageContext.request.contextPath}/contacts_network/entrepreneur/show\">Empreendedores</a>\n						</li>\n						<li class=\"pull-right\">\n							<a class=\"pull-right-home\" href=\"${pageContext.request.contextPath}/main/page\">\n							<i class=\"icon-home\"></i>Home</a>\n						</li>\n					</ul>\n<!-- start slipsum code -->\n				<div class=\"formContent\">\n					<br />\n					<div id=\"error_section\" class=\"alert alert-error\" style=\"display: none\">\n						<a class=\"close\" data-dismiss=\"alert\" href=\"#\">&times;</a>\n						<c:forEach items=\"${errorMessages}\" var=\"msg\">\n							<p>${msg}</p>\n						</c:forEach>\n					</div><!-- FIM #ERROR_SECTION -->\n					<c:if test=\"${ not empty sucessMessages }\">\n						<div id=\"success_alert\" class=\"alert alert-success\">\n							<a class=\"close\" data-dismiss=\"alert\" href=\"#\">&times;</a>\n							<c:forEach items=\"${sucessMessages}\" var=\"msg\">\n								<p>${msg}</p>\n							</c:forEach>\n						</div><!-- FIM #SUCCESS_ALERT -->\n					</c:if>\n					<h2>Institucional</h2>\n					<form action=\"#\" method=\"post\" class=\"form-horizontal\"\n							enctype=\"multipart/form-data\">\n					<div class=\"middleForm\">\n						<div class=\"control-group\">\n							\n							<label class=\"control-label\" for=\"name\">Nome</label>\n								<div class=\"controls\">\n									${incubator.name }\n								</div>\n						</div>	\n							\n								\n							<div class=\"control-group\">\n								\n								<label class=\"control-label\" for=\"name\">Website</label>\n								<div class=\"controls\">\n									${incubator.website}\n									\n								</div>\n							</div>\n							\n							<div class=\"control-group\">\n								\n								<label class=\"control-label\" for=\"name\">E-mail Corporativo</label>\n								<div class=\"controls\">\n									${incubator.corporateEmail}\n								</div>\n							</div>\n\n						    <div class=\"control-group\">\n						    	\n						    	<label class=\"control-label\" for=\"fundationYear\">Ano de Fundação</label>\n						        <div class=\"controls\">\n						       	 ${incubator.fundationYear}\n						        </div>\n						    </div>\n\n							<div class=\"control-group\">\n								\n								<label class=\"control-label\" for=\"corporateName\">Razão Social</label>\n								<div class=\"controls\">\n										${incubator.corporateName }									\n								</div>\n							</div>\n							\n							<div class=\"control-group\">\n								\n								<label class=\"control-label\" for=\"cnpj\">CNPJ</label>\n								<div class=\"controls\">\n										${incubator.cnpj }						\n								</div>\n							</div>\n								\n							<div class=\"control-group\">\n								\n								<label class=\"control-label\" for=\"incubatorTypesIds\">Tipo</label>\n								<div class=\"controls\">\n										<c:forEach items=\"${incubatorTypes}\" var=\"incubatorType\">\n											<label for=\"incubatorTypesIds\" class=\"checkbox\">\n												<input type=\"checkbox\" name=\"incubatorTypesIds\" disabled=\"disabled\" id=\"incubatorTypesIds\" value=\"${incubatorType.id}\"\n													${incubatorType.checked ? ' checked=checked' : ''} /> ${incubatorType.description}\n											</label>\n						            	</c:forEach>								\n								</div>\n							</div>\n							\n							<div class=\"control-group\">\n								<label class=\"control-label\" for=\"cep\">CEP</label>\n								<div class=\"controls\">\n										${incubator.address.cep }							\n								</div>\n							</div>	\n								\n							<div class=\"control-group\">\n								<label class=\"control-label\" for=\"street\">Logradouro</label>\n								<div class=\"controls\">\n										${incubator.address.street }				\n										\n								</div>\n							</div>\n							\n								\n							<div class=\"control-group\">\n								\n								<label class=\"control-label\" for=\"number\">Número</label>\n								<div class=\"controls\">\n										${incubator.address.number }		\n								</div>\n							</div>			\n							\n							<div class=\"control-group\">\n								<label class=\"control-label\" for=\"complement\">Complemento</label>\n								<div class=\"controls\">\n										${incubator.address.complement }				\n										\n								</div>\n							</div>			\n							\n							<div class=\"control-group\">\n								<label class=\"control-label\" for=\"neighborhood\">Bairro</label>\n								<div class=\"controls\">\n										${incubator.address.neighborhood }						\n								</div>\n							</div>															\n							<div class=\"control-group\">\n								<label class=\"control-label\" for=\"stateId\">UF</label>\n								<div class=\"controls\">\n										${city.state.uf}						\n								</div>\n							\n							<div class=\"control-group\">\n								<label class=\"control-label\" for=\"cityId\">Cidade</label>\n								\n								<div class=\"controls\">\n										${city.name}					\n										\n								</div>\n							</div>\n								\n							<div class=\"control-group\">\n										<label class=\"control-label\" for=\"phone\">Telefone 1</label>\n								\n								<div class=\"controls\">\n										${incubator.phone1 }		\n										\n								</div>\n							</div>							\n							\n								\n							<div class=\"control-group\">\n										<label class=\"control-label\" for=\"phone2\">Telefone 2</label>\n								<div class=\"controls\">\n										${incubator.phone2 }\n										\n								</div>\n							</div>							\n							\n								\n							<div class=\"control-group\">\n										<label class=\"control-label\" for=\"managerName\">Gerente da Incubadora</label>\n								\n								<div class=\"controls\">\n										${incubator.managerName }\n										\n								</div>\n							</div>\n							<div class=\"control-group\">\n										<label class=\"control-label\" for=\"managerEmail\">E-mail do Gerente da Incubadora</label>\n								<div class=\"controls\">\n										${incubator.managerEmail}\n										\n								</div>\n							</div>\n								\n							<div class=\"control-group\">\n										<label class=\"control-label\" for=\"managerPhone\">Telefone do Gerente da Incubadora</label>\n								<div class=\"controls\">\n										${incubator.managerPhone}\n										\n								</div>\n							</div>							\n							\n								\n							<div class=\"control-group\">\n										<label class=\"control-label\" for=\"managerWorkload\">Dedicação (horas/semana)</label>\n								\n								<div class=\"controls\">\n										${incubator.managerWorkload}\n										\n								</div>\n							</div>					\n								\n							<div class=\"control-group\">\n										<label class=\"control-label\" for=\"name\">Documento Comprobatório</label>\n								\n								<div class=\"controls\">\n										<c:set var=\"documentEvidencingExists\" value=\"${incubator.documentEvidencingPath  != '' && incubator.documentEvidencingPath  !=  null}\" />\n										<c:if test=\"${documentEvidencingExists}\">\n											<img src=\"${pageContext.request.contextPath}/static/img/attach.png\"  /> <a target=\"_blank\"	href=\"${pageContext.request.contextPath}/operational/incubator/download/documentEvidencing\">Ver Documento Comprobatório</a>\n										</c:if>\n										<c:if test=\"${!documentEvidencingExists}\">\n											Arquivo não disponível\n										</c:if>\n										\n								</div>\n							</div>\n								\n							<div class=\"control-group\">\n										<label class=\"control-label\" for=\"name\">Facebook</label>\n								\n								<div class=\"controls\">\n										${incubator.facebook }\n										\n								</div>\n							</div>						\n							\n								\n							<div class=\"control-group\">\n										<label class=\"control-label\" for=\"name\">Twitter</label>\n								<div class=\"controls\">\n										${incubator.twitter }\n										\n								</div>\n							</div>					\n							\n							<div class=\"control-group\">\n										<label class=\"control-label\" for=\"name\">Estatuto Social</label>\n								\n								<div class=\"controls\">\n										<c:set var=\"socialStatuteExists\" value=\"${incubator.socialStatutePath  != '' && incubator.socialStatutePath  !=  null}\" />\n										<c:if test=\"${socialStatuteExists}\">\n											<img src=\"${pageContext.request.contextPath}/static/img/attach.png\"  /> <a target=\"_blank\"	href=\"${pageContext.request.contextPath}/operational/incubator/download/socialStatute\">Ver Estatuto Social</a>\n										</c:if>\n										<c:if test=\"${!socialStatuteExists}\">\n											Arquivo não disponível\n										</c:if>\n										\n								</div>\n							</div>\n\n							<div class=\"control-group\">\n										<label class=\"control-label\" for=\"name\">Regimento Interno</label>\n								\n								<div class=\"controls\">\n										<c:set var=\"internalRegimentExists\" value=\"${incubator.internalRegimentPath  != '' && incubator.internalRegimentPath  !=  null}\" />\n										<c:if test=\"${internalRegimentExists}\">\n											<img src=\"${pageContext.request.contextPath}/static/img/attach.png\"  /> <a target=\"_blank\"	href=\"${pageContext.request.contextPath}/operational/incubator/download/internalRegiment\">Ver Regimento Interno</a>\n										</c:if>\n										<c:if test=\"${!internalRegimentExists}\">\n											Arquivo não disponível\n										</c:if>\n										\n								</div>\n							</div>\n\n							<div class=\"control-group\">\n										<label class=\"control-label\" for=\"name\">Vínculo com Entidade Gestora</label>\n								\n								<div class=\"controls\">\n										<c:set var=\"managerEntityBondExists\" value=\"${incubator.managerEntityBondPath  != '' && incubator.managerEntityBondPath  !=  null}\" />\n										<c:if test=\"${managerEntityBondExists}\">\n											<img src=\"${pageContext.request.contextPath}/static/img/attach.png\"  /> <a target=\"_blank\"	href=\"${pageContext.request.contextPath}/operational/incubator/download/managerEntityBond\">Ver Vínculo com Entidade Gestora</a>\n										</c:if>\n										<c:if test=\"${!managerEntityBondExists}\">\n											Arquivo não disponível\n										</c:if>\n										\n								</div>\n							</div>							\n\n							<div class=\"control-group\">\n										<label class=\"control-label\" for=\"name\">Anexo 1</label>\n								\n								<div class=\"controls\">\n										<c:set var=\"document1Exists\" value=\"${incubator.document1Path  != '' && incubator.document1Path  !=  null}\" />\n										<c:if test=\"${document1Exists}\">\n											<img src=\"${pageContext.request.contextPath}/static/img/attach.png\"  /> <a target=\"_blank\"	href=\"${pageContext.request.contextPath}/operational/incubator/download/document1\">Ver Anexo 1</a>\n										</c:if>\n										<c:if test=\"${!document1Exists}\">\n											Arquivo não disponível\n										</c:if>\n										\n								</div>\n							</div>							\n\n							<div class=\"control-group\">\n										<label class=\"control-label\" for=\"name\">Anexo 2</label>\n								\n								<div class=\"controls\">\n										<c:set var=\"document2Exists\" value=\"${incubator.document2Path  != '' && incubator.document2Path  !=  null}\" />\n										<c:if test=\"${document2Exists}\">\n											<img src=\"${pageContext.request.contextPath}/static/img/attach.png\"  /> <a target=\"_blank\"	href=\"${pageContext.request.contextPath}/operational/incubator/download/document2\">Ver Anexo 2</a>\n										</c:if>\n										<c:if test=\"${!document2Exists}\">\n											Arquivo não disponível\n										</c:if>\n										\n								</div>\n							</div>\n\n							<div class=\"control-group\">\n										<label class=\"control-label\" for=\"name\">Anexo 3</label>\n								\n								<div class=\"controls\">\n										<c:set var=\"document3Exists\" value=\"${incubator.document3Path  != '' && incubator.document3Path  !=  null}\" />\n										<c:if test=\"${document3Exists}\">\n											<img src=\"${pageContext.request.contextPath}/static/img/attach.png\"  /> <a target=\"_blank\"	href=\"${pageContext.request.contextPath}/operational/incubator/download/document3\">Ver Anexo 3</a>\n										</c:if>\n										<c:if test=\"${!document3Exists}\">\n											Arquivo não disponível\n										</c:if>\n										\n								</div>\n							</div>							\n							\n							\n						\n\n					</div>\n					<br />\n					<br />\n					<h2>Infra-estrutura de Serviços, Física e Tecnológica</h2>\n							\n					<div class=\"middleForm\">\n							<div class=\"control-group\">\n										<label class=\"control-label\" for=\"name\">Catálogo de Serviço</label>\n								\n								<div class=\"controls\">\n										<c:set var=\"serviceDescriptionExists\" value=\"${incubator.serviceDescriptionPath  != '' && incubator.serviceDescriptionPath  !=  null}\" />\n										<c:if test=\"${serviceDescriptionExists}\">\n											<img src=\"${pageContext.request.contextPath}/static/img/attach.png\"  /> <a target=\"_blank\"	href=\"${pageContext.request.contextPath}/operational/incubator/download/serviceDescription\">Ver Catálogo de Serviço</a>\n										</c:if>\n										<c:if test=\"${!serviceDescriptionExists}\">\n											Arquivo não disponível\n										</c:if>\n										\n								</div>\n							</div>							\n\n							<div class=\"control-group\">\n										<label class=\"control-label\" for=\"name\">Memorial Descritivo</label>\n								\n								<div class=\"controls\">\n										<c:set var=\"datasheetExists\" value=\"${incubator.datasheetPath  != '' && incubator.datasheetPath  !=  null}\" />\n										<c:if test=\"${datasheetExists}\">\n											<img src=\"${pageContext.request.contextPath}/static/img/attach.png\"  /> <a target=\"_blank\"	href=\"${pageContext.request.contextPath}/operational/incubator/download/datasheetn\">Ver Memorial Descritivo</a>\n										</c:if>\n										<c:if test=\"${!datasheetExists}\">\n											Arquivo não disponível\n										</c:if>\n										\n								</div>\n							</div>\n\n							<div class=\"control-group\">\n										<label class=\"control-label\" for=\"name\">Imagem da Instituição</label>\n								\n								<div class=\"controls\">\n										<c:set var=\"imageOfInstitutionExists\" value=\"${incubator.imageOfInstitutionPath  != '' && incubator.imageOfInstitutionPath  !=  null}\" />\n										<c:if test=\"${imageOfInstitutionExists}\">\n											<img src=\"${pageContext.request.contextPath}/static/img/attach.png\"  /> <a target=\"_blank\"	href=\"${pageContext.request.contextPath}/operational/incubator/download/imageOfInstitution\">Ver Imagem da Instituição</a>\n										</c:if>\n										<c:if test=\"${!imageOfInstitutionExists}\">\n											Arquivo não disponível\n										</c:if>\n										\n								</div>\n							</div>							\n							\n							<div class=\"control-group\">\n										<label class=\"control-label\" for=\"name\">Material Institucional</label>\n								\n								<div class=\"controls\">\n										<c:set var=\"institutionalMaterialExists\" value=\"${incubator.institutionalMaterialPath  != '' && incubator.institutionalMaterialPath  !=  null}\" />\n										<c:if test=\"${institutionalMaterialExists}\">\n											<img src=\"${pageContext.request.contextPath}/static/img/attach.png\"  /> <a target=\"_blank\"	href=\"${pageContext.request.contextPath}/operational/incubator/download/institutionalMaterial\">Ver Material Institucional</a>\n										</c:if>\n										<c:if test=\"${!institutionalMaterialExists}\">\n											Arquivo não disponível\n										</c:if>\n										\n								</div>\n							</div>\n						\n							<div class=\"control-group\">\n										<label class=\"control-label\" for=\"name\">Planta Baixa</label>\n								\n								<div class=\"controls\">\n										<c:set var=\"floorPlanExists\" value=\"${incubator.floorPlanPath  != '' && incubator.floorPlanPath  !=  null}\" />\n										<c:if test=\"${floorPlanExists}\">\n											<img src=\"${pageContext.request.contextPath}/static/img/attach.png\"  /> <a target=\"_blank\"	href=\"${pageContext.request.contextPath}/operational/incubator/download/floorPlan\">Ver Planta Baixa</a>\n										</c:if>\n										<c:if test=\"${!floorPlanExists}\">\n											Arquivo não disponível\n										</c:if>\n										\n								</div>\n							</div>\n		\n							<div class=\"control-group\">\n										<label class=\"control-label\" for=\"publicService\">Atendimento ao público/empresas adas</label>\n								<div class=\"controls\">\n									<c:if test=\"${incubator.publicService == true}\">\n										Sim\n									</c:if>\n									<c:if test=\"${incubator.publicService == false}\">\n										Não\n									</c:if>\n							</div>\n							<div class=\"control-group\">\n										<label class=\"control-label\" for=\"secretariat\">Secretaria</label>\n								\n								<div class=\"controls\">\n									<c:if test=\"${incubator.secretariat == true}\">\n										Sim\n									</c:if>\n									<c:if test=\"${incubator.secretariat == false}\">\n										Não\n									</c:if>\n								</div>\n							</div>\n							\n							<div class=\"control-group\">\n										<label class=\"control-label\" for=\"areaOfCoexistence\">Área de Convivência</label>\n								\n								<div class=\"controls\">\n									<c:if test=\"${incubator.areaOfCoexistence == true}\">\n										Sim\n									</c:if>\n									<c:if test=\"${incubator.areaOfCoexistence == false}\">\n										Não\n									</c:if>\n								</div>\n							</div>						\n						\n							<div class=\"control-group\">\n										<label class=\"control-label\" for=\"incubationRooms\">Total de Salas para Incubação</label>\n								<div class=\"controls\">\n										${incubator.incubationRooms}\n										\n								</div>\n							</div>\n							<ul style=\"height: 100%\">\n								\n							<div class=\"control-group\">\n										<label class=\"control-label\" for=\"incubationRoomsArea\">Toral de Área das Salas Incubação(m2)</label>\n									\n								<div class=\"controls\">\n										${incubator.formattedIncubationRoomsArea}\n										\n								</div>\n							\n							</div>\n							\n							<div class=\"control-group\">\n										<label class=\"control-label\" for=\"meetingRooms\">Total de Salas de Reunião</label>\n								\n								<div class=\"controls\">\n										${incubator.meetingRooms}\n										\n								</div>\n							</div>\n			\n							<div class=\"control-group\">\n										<label class=\"control-label\" for=\"trainingRooms\">Total de Salas para Treinamento</>\n							\n								<div class=\"controls\">\n										${incubator.trainingRooms}\n								</div>\n							</div>\n					\n					\n					<br/>\n					<br/>\n					<h2>Procedimentos de Incubação</h2>\n					\n					\n					<div class=\"middleForm\">\n							<div class=\"control-group\">\n										<label class=\"control-label\" for=\"name\">Modelo de Edital</label>\n								\n								<div class=\"controls\">\n										<c:set var=\"editalModelPathDescriptionExists\" value=\"${incubator.editalModelPath  != '' && incubator.editalModelPath  !=  null}\" />\n										<c:if test=\"${editalModelPathDescriptionExists}\">\n											<img src=\"${pageContext.request.contextPath}/static/img/attach.png\"  /> <a target=\"_blank\"	href=\"${pageContext.request.contextPath}/operational/incubator/download/editalModel\">Ver Modelo de Edital</a>\n										</c:if>\n										<c:if test=\"${!editalModelPathDescriptionExists}\">\n											Arquivo não disponível\n										</c:if>\n										\n								</div>\n							</div>\n								\n							<div class=\"control-group\">\n										<label class=\"control-label\" for=\"name\">Modelo de Contrato/Convênio</label>\n								\n								<div class=\"controls\">\n										<c:set var=\"convenantContractModelPathDescriptionExists\" value=\"${incubator.convenantContractModelPath  != '' && incubator.convenantContractModelPath  !=  null}\" />\n										<c:if test=\"${convenantContractModelPathDescriptionExists}\">\n											<img src=\"${pageContext.request.contextPath}/static/img/attach.png\"  /> <a target=\"_blank\"	href=\"${pageContext.request.contextPath}/operational/incubator/download/convenantContractModel\">Ver Modelo de Contrato de Convênio</a>\n										</c:if>\n										<c:if test=\"${!convenantContractModelPathDescriptionExists}\">\n											Arquivo não disponível\n										</c:if>\n										\n								</div>\n							</div>\n					</div>\n					\n					<br />\n					\n				</form>		\n							\n					<script type=\"text/javascript\">\n\n					     $(document).ready(function() {\n\n					              <c:if test=\"${not empty errorMessages}\">\n					            	$('#error_section').alert();\n					            	$('#error_section').show();\n					       		 </c:if>\n					    });\n\n\n					</script>\n				  </div><!--FIM .FORMCONTENT -->				  \n			</div><!-- FIM #PANTONE300-CONTEUDO -->\n		</div><!-- FIM .ROW-FLUID -->\n	</div><!-- FIM #CONTENT -->\n</div><!-- FIM .CONTAINERProject -->\n<%@ include file=\"/WEB-INF/views/include/footer.jsp\"%>",
+			"file": "/C/Users/Daniel/Dropbox/Public/Web/ARVOZ/incubator_display.html",
+			"file_size": 21091,
+			"file_write_time": 129931030980277056,
+			"settings":
+			{
+				"buffer_size": 20472,
+				"line_ending": "Windows",
+				"name": "<%@ include file=\"/WEB-INF/views/commons/taglibs.j"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 380.0,
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"pa",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"",
+				"Package Control: List Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Daniel/Dropbox/Public/Web/VB/Web/css/vb.css",
+		"/C/Users/Daniel/Dropbox/Public/Web/VB/Web/index.html",
+		"/C/Users/Daniel/Documents/Bookmaking/A Girl of The Commune/OEBPS/content.opf",
+		"/C/Users/Daniel/Documents/Bookmaking/VM/META-INF/container.xml",
+		"/C/Users/Daniel/Documents/Bookmaking/VM/OEBPS/vademecum.css",
+		"/C/Users/Daniel/Documents/Bookmaking/VM/OEBPS/vademecum.opf",
+		"/C/Users/Daniel/Dropbox/Public/Web/VB/Web/sass/screen.scss",
+		"/E/Software/FRAPS/Beepa.Fraps.v3.1.0.retail-FOSI/fosi.nfo",
+		"/C/Program Files/Desura/Common/Project Zomboid/lwjgl.jar",
+		"/C/Users/Daniel/Dropbox/Public/Web/VB/Web/css/skeleton.css",
+		"/C/Users/Daniel/Dropbox/Public/Publishing/Jogador Número 1/META-INF/container.xml",
+		"/C/Users/Daniel/Dropbox/Public/Publishing/Jogador Número 1/OEBPS/content.opf",
+		"/C/Users/Daniel/Dropbox/Public/Publishing/Jogador Número 1/OEBPS/toc.ncx",
+		"/C/Users/Daniel/Dropbox/Public/Publishing/Storyteller/OPS/body.xhtml",
+		"/C/Users/Daniel/Downloads/88896045-As-Tecnologias-da-Inteligencia-Pierre-Levy.txt",
+		"/C/Users/Daniel/Downloads/Levy, Pierre - AS TECNOLOGIAS DA INTELIGÊNCIA.TXT",
+		"/C/Users/Daniel/Dropbox/Public/Publishing/Jogador Número 1/OEBPS/Text/9788580444728_o_jogador_numero_1-8.html",
+		"/C/Users/Daniel/Dropbox/Public/Publishing/Jogador Número 1/OEBPS/Text/9788580444728_o_jogador_numero_1.html",
+		"/C/Users/Daniel/Dropbox/Public/Books/Storyteller-BENJAMIN,Walter.epub",
+		"/C/Users/Daniel/Dropbox/Public/Web/VB/Web/vb-site.sublime-project",
+		"/C/Users/Daniel/Dropbox/Public/Web/ARVOZ/index.html",
+		"/C/Users/Daniel/Downloads/exfm.js",
+		"/C/Users/Daniel/Dropbox/Public/Web/ARVOZ/menu-interno.html",
+		"/C/Users/Daniel/Dropbox/Public/Web/ARVOZ/css/arvoz.css",
+		"/C/Users/Daniel/Dropbox/Public/Web/ARVOZ/login.html",
+		"/C/Users/Daniel/Dropbox/Public/Web/ARVOZ/css/base-1.0.0.css",
+		"/C/Users/Daniel/Desktop/nobreaventura.html",
+		"/C/Users/Daniel/Documents/Webdesign/alomundo"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"	\n								</li>",
+			"<label class=\"control-label\"",
+			"}\n									\n								</li>",
+			"<li class=\"controls\">",
+			"</li>\n							</ul>",
+			"<li class=\"label\">",
+			"-\n    ",
+			"‡",
+			"¡",
+			"tr s",
+			"¢",
+			"‚",
+			"</span></p>",
+			"<p><span style=\" font-family:'Times New Roman';\">",
+			"</span></p>",
+			"<p><span style=\" font-family:'Times New Roman';\">",
+			"<p><span style=\" font-family:'Times New Roman';\">Walter Benjamin 􀀀 </span></p>\n<p><span style=\" font-family:'Times New Roman'; font-style:italic;\">The Storyteller</span></p>",
+			"<p><span style=\" font-family:'Times New Roman';\">",
+			"</span></p>",
+			"<p><span style=\" font-family:'Times New Roman';\">",
+			"</span></p>",
+			"<p><span style=\" font-family:'Times New Roman';\">",
+			"style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:18px;\"",
+			"</span></p>\n</span></p>\nstyle=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:18px;\"",
+			"</span></p>\n</span></p>\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:18px;\"><span style=\" font-family:'Times New Roman';\">",
+			"</span></p>\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:18px;\"><span style=\" font-family:'Times New Roman';\">",
+			"</span></p>\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:18px;\"><span style=\" font-family:'Times New Roman';\"><p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:18px;\"><span style=\" font-family:'Times New Roman';\">",
+			"<div style=\"width:100%;height:auto;",
+			"<div style=\"width:100%;height:150px;",
+			"<a ",
+			"style=\"float:left; width:80px;\"",
+			"style=\"width:100%;height:100px;\""
+		],
+		"highlight": true,
+		"in_selection": true,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"-\n    ",
+			"",
+			"<div style=\"width:100%;height:120px;",
+			"<div style=\"width:100%;height:auto;clear:both;margin-bottom:10px;padding-bottom:10px;",
+			"<a style=\"font-size: 2em; color:#36BCAB;\"",
+			"style=\"float:left; width:80px; margin-right: 20px; border-bottom: 5px solid #36BCAB;\"",
+			"style=\"width:100%;height:150px;\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 16706,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								16697,
+								16697
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 5810.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Daniel/Dropbox/Public/Web/ARVOZ/index.html",
+					"settings":
+					{
+						"buffer_size": 12793,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11582,
+								11582
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3967.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/Daniel/Dropbox/Public/Web/ARVOZ/incubator_display.html",
+					"settings":
+					{
+						"buffer_size": 20472,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3738,
+								3443
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<%@ include file=\"/WEB-INF/views/commons/taglibs.j",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1406.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
